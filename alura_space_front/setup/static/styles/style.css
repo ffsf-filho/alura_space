@@ -382,7 +382,7 @@ table {
     border: 2px solid #7B78E5;
     cursor: pointer;
 }
-
+/*
 .alert {
     --bs-alert-bg: transparent;
     --bs-alert-padding-x: 1rem;
@@ -412,3 +412,4 @@ table {
     --bs-alert-bg: #b7381b;
     --bs-alert-border-color: #b7381b;
 }
+*/
